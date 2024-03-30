@@ -1,4 +1,4 @@
-                                                      Hi , I'm Tanvi Gupta👋
+                                                      Hi👋, I'm Tanvi Gupta
 
                                                 
                                    Passionate Indian coder exploring technology and innovation.
