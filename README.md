@@ -1,7 +1,7 @@
-                                                                          ### Hi , I'm Tanvi Gupta👋
+                                                      Hi , I'm Tanvi Gupta👋
 
                                                 
-                                                      Passionate Indian coder exploring technology and innovation.
+                                   Passionate Indian coder exploring technology and innovation.
   
 <!--
 **tanvi20206/tanvi20206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  🔭 I’m currently pursuing BTECH CSE with specialization in AIML from Manav Rachna University.
+ 
  📫 How to reach me: tanvigupta848@gmail.com
