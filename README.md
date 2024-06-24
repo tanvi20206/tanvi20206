@@ -21,7 +21,6 @@ Here are some ideas to get you started:
  🔭 I’m currently pursuing BTECH CSE with specialization in AIML from Manav Rachna University.
  
  📫 How to reach me: 📩 tanvigupta848@gmail.com
- 
-                      linkdin- https://www.linkedin.com/in/tanvi-gupta-96b676284/
+ 🔗 linkdin- https://www.linkedin.com/in/tanvi-gupta-96b676284/
 
 
