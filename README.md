@@ -1,4 +1,4 @@
-                                                      Hi👋, I'm Tanvi Gupta
+![LinkedinGIF (2)](https://github.com/tanvi20206/tanvi20206/assets/142237861/8f11b177-d9fb-4a2c-af3d-f059bc78dff0)![LinkedinGIF](https://github.com/tanvi20206/tanvi20206/assets/142237861/a65053a6-2339-4954-a10c-088f852e25f5)                                                      Hi👋, I'm Tanvi Gupta
 
                                                 
                                    Passionate Indian coder exploring technology and innovation.
@@ -20,4 +20,7 @@ Here are some ideas to get you started:
 -->
  🔭 I’m currently pursuing BTECH CSE with specialization in AIML from Manav Rachna University.
  
- 📫 How to reach me: tanvigupta848@gmail.com
+ 📫 How to reach me: 📩 tanvigupta848@gmail.com
+                      linkdin-linkedin.com/in/tanvi-gupta-96b676284
+
+
